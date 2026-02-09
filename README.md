@@ -1,6 +1,6 @@
 # HTML Analyzer
 
-A Java command-line tool developed to retrieve the text located at the deepest level of an HTML structure. This solution was implemented as part of the technical assessment for the Software Development Intern 2026 position at Axur.
+A Java command-line tool developed to retrieve the text located at the deepest level of an HTML structure.
 
 ## Features
 
